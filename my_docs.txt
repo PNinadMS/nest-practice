@@ -1,0 +1,17 @@
+Expense App:
+
+* Controllers
+* Interceptors
+* Services
+* Modules
+* DTOS
+* Pipes
+
+Realtor App
+
+* ORM Integration
+* Testing
+* Authentication
+* Interceptors
+* Authorization
+* Guards
