@@ -7,7 +7,7 @@ Expense App:
 * DTOS
 * Pipes
 
-Realtor App
+Realtor App:
 
 * ORM Integration
 * Testing
